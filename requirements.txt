@@ -35,7 +35,7 @@ Kivy-Garden==0.1.4
 kivymd==0.103.0
 markdown2==2.3.8
 MarkupSafe==1.1.1
-numpy==1.18.1
+numpy==1.22.0
 Pillow==7.0.0
 pipenv==2018.11.26
 psycopg2==2.8.4
